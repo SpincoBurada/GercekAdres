@@ -7,6 +7,6 @@
 </a>
 <div class="description">
 
-<img src="https://r.resimlink.com/08l6f.jpg" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
+<img src="https://ibb.co/KjLWhXk5" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
  
 # <p>Spinco , çevrimiçi platform olarak, kullanıcılarına güvenli, eğlenceli ve kazançlı bir oyun deneyimi sunmayı amaçlayan bir online bir sitedir.
